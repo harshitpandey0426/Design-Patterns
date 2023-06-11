@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class PhoneDisplay {
+public class PhoneDisplay implements IObserver{
+    @Override
+    public void update() {
+
+    }
 }

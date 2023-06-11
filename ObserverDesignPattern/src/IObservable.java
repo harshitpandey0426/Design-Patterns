@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface IObservable {
+public interface IObservable {
+    void add(IObserver observer);
+    void remove(IObserver observer);
+    void notifyObserver();
 }
