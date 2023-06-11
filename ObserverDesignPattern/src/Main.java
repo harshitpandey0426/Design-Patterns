@@ -13,7 +13,5 @@ public class Main {
 
         iObservable.setTemperature(30);
         iObservable.notifyObserver();
-
-
     }
 }
