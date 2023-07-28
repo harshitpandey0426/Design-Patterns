@@ -1,3 +1,7 @@
+package SingletonDesignPattern.src;
+
+import SingletonDesignPattern.src.SingletonPattern;
+
 public class Main {
     public static void main(String[] args) {
         SingletonPattern singletonPattern1 = SingletonPattern.getSingletonInstance();

@@ -1,3 +1,5 @@
+package SingletonDesignPattern.src;
+
 public class SingletonPattern {
     static private SingletonPattern instance;
     private SingletonPattern(){
