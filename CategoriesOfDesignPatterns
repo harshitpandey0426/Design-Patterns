@@ -1,0 +1,29 @@
+Creational Patterns:
+
+These patterns deal with object creation mechanisms, abstracting the instantiation process. They provide flexibility in creating objects while hiding the details of the creation process. Examples include:
+Factory Method Pattern
+Abstract Factory Pattern
+Singleton Pattern
+Builder Pattern
+Prototype Pattern
+Structural Patterns:
+
+These patterns focus on the composition of classes and objects to form larger structures. They help to create interfaces between objects to make them work together effectively. Examples include:
+Adapter Pattern
+Bridge Pattern
+Composite Pattern
+Decorator Pattern
+Facade Pattern
+Proxy Pattern
+Behavioral Patterns:
+
+These patterns are concerned with communication, collaboration, and interaction between objects. They provide solutions to effectively manage the behavior of objects. Examples include:
+Observer Pattern
+Strategy Pattern
+Command Pattern
+Iterator Pattern
+Template Method Pattern
+Chain of Responsibility Pattern
+State Pattern
+Visitor Pattern
+Each of these categories addresses different aspects of software design, providing solutions for common design problems and promoting better maintainability, reusability, and flexibility in the software.

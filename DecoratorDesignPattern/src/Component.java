@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Component {
+public interface Component {
+    void operation();
 }

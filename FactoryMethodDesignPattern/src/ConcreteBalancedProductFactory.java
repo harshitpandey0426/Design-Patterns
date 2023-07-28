@@ -3,7 +3,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class ConcreteBalancedProductFactory implements ProductFactory{
     @Override
     public ProductAnimal createAnimal() {
-        // lets assume this generates number in a balanced way
+        // let's assume this generates number in a balanced way
         int x = ThreadLocalRandom.current().nextInt(1, 3 + 1);
         if(x == 1){
             return new ProductDog();
